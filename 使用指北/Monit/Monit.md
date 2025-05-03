@@ -6,8 +6,6 @@
 
 ## 初见
 
-
-
 Monit 软件很美观，操作简单。挂在桌面的小组件，可以：
 
 - 听自己的网易云歌单
@@ -24,6 +22,12 @@ Monit 软件很美观，操作简单。挂在桌面的小组件，可以：
 
 
 ### 📦安装方法
+
+#### 1、下载安装包
+
+官网（直接点击速度较慢，可复制到迅雷中下载）：<br />[Monit-0.8.1-win-x64.7z](https://github.com/fzf404/Monit/releases/download/v0.8.1/Monit-0.8.1-win-x64.7z)<br />[Monit-0.8.1-win-x64.exe](https://github.com/fzf404/Monit/releases/download/v0.8.1/Monit-0.8.1-win-x64.exe)<br />蓝奏云：<br />[提取码：5p1c](https://wwko.lanzoue.com/b011l9p6te)
+
+#### 2、安装
 
 > 推荐小白用户使用方法1
 
