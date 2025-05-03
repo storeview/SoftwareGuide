@@ -1,4 +1,4 @@
-# <img src="./assets/Monit_logo.png" alt="Monit_logo" style="zoom:7%;" />Monit
+# ![](./assets/Monit_logo.png)Monit
 
 > 用于展示各种信息的桌面小组件。[官网](https://monit.fzf404.art/#/)
 
